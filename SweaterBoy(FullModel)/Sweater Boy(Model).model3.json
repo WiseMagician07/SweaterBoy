@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Sweater Boy(Model).moc3",
+		"Textures": [
+			"Sweater Boy(Model).1024/texture_00.png"
+		],
+		"DisplayInfo": "Sweater Boy(Model).cdi3.json"
+	}
+}
